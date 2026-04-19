@@ -1,6 +1,9 @@
-langgraph
-langchain-core
-langchain-groq
-pydantic
 python-dotenv
+langchain-core
 langchain-tavily
+langchain-google-genai
+langgraph
+google-genai
+pydantic
+streamlit
+langgraph-checkpoint-sqlite
